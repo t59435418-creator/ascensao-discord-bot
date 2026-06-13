@@ -1,0 +1,13 @@
+node_modules
+**/node_modules
+.git
+.gitignore
+*.log
+dist
+**/dist
+.local
+.agents
+attached_assets
+artifacts/api-server
+artifacts/mockup-sandbox
+scripts
